@@ -27,7 +27,7 @@ HEROKU_API: process.env.HEROKU_API || "HRKU-ed5c6fb8-14b9-4e21-b652-0df45300750f
 OWNER_NUMBER:process.env.OWNER_NUMBER || "94743826406",
 
 //Github Workflows Deploy කරනව නම් පමනක් පහත Env යෙදිය යුතුය!
-GITHUB_TOKEN: process.env.GITHUB_TOKEN || "",
+GITHUB_TOKEN: process.env.GITHUB_TOKEN || "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",
 YOUR_REPO:process.env.YOUR_REPO || "",
 
 
