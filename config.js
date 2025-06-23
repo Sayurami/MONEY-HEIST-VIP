@@ -28,7 +28,7 @@ OWNER_NUMBER:process.env.OWNER_NUMBER || "94743826406",
 
 //Github Workflows Deploy කරනව නම් පමනක් පහත Env යෙදිය යුතුය!
 GITHUB_TOKEN: process.env.GITHUB_TOKEN || "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",
-YOUR_REPO:process.env.YOUR_REPO || "",
+YOUR_REPO:process.env.YOUR_REPO || "https://github.com/Sayurami/MONEY-HEIST-VIP",
 
 
 MAX_SIZE: 500,DELETEMSGSENDTO : process.env.DELETEMSGSENDTO === undefined ? '' : process.env.DELETEMSGSENDTO};
